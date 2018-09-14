@@ -1,0 +1,306 @@
+{
+  "personCode": "944c",
+  "firstName": "Sylvester",
+  "lastName": "McCoy",
+  "address": {
+    "Street": "1060 West Addison Street",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60613",
+    "country": "USA"
+  },
+  "email": [
+    "smccoy@cubs.com",
+    "sylve_mccoy13@gmail.com"
+  ]
+}
+{
+  "personCode": "306a",
+  "firstName": " Jon",
+  "lastName": "Pertwee",
+  "address": {
+    "Street": "123 N 1st Street",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68116",
+    "country": "USA"
+  },
+  "email": [
+    "j_pertwee@gmail.com",
+    "jon@venture.com"
+  ]
+}
+{
+  "personCode": "55bb",
+  "firstName": " Bud",
+  "lastName": "Fox",
+  "address": {
+    "Street": "8753 West 3rd Ave.",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75001",
+    "country": "USA"
+  },
+  "email": [
+    "obrien@ds9.com",
+    "obrien@enterprise.gov"
+  ]
+}
+{
+  "personCode": "2342",
+  "firstName": " Mackein",
+  "lastName": "O\u0027Brien",
+  "address": {
+    "Street": "123 Friendly Street",
+    "city": "Ottawa",
+    "state": "ON",
+    "zip": "K1A 0G9",
+    "country": "Canada"
+  },
+  "email": []
+}
+{
+  "personCode": "aef1",
+  "firstName": " Gordon",
+  "lastName": "Gekko",
+  "address": {
+    "Street": "1 Wall Street",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10005-0012",
+    "country": "USA"
+  },
+  "email": [
+    "gekko@crazy.net"
+  ]
+}
+{
+  "personCode": "321f",
+  "firstName": " Brock",
+  "lastName": "Sampson",
+  "address": {
+    "Street": "321 Bronx Street",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10004",
+    "country": "USA"
+  },
+  "email": []
+}
+{
+  "personCode": "ma12",
+  "firstName": " Dale",
+  "lastName": "Pete",
+  "address": {
+    "Street": "1060 West Addison Street",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60613",
+    "country": "USA"
+  },
+  "email": [
+    "pdale@cubs.com"
+  ]
+}
+{
+  "personCode": "321nd",
+  "firstName": " William",
+  "lastName": "Thotroy",
+  "address": {
+    "Street": "1060 West Addison Street",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60613",
+    "country": "USA"
+  },
+  "email": [
+    "willth@doctors.com",
+    "wth@who.com"
+  ]
+}
+{
+  "personCode": "nf32a",
+  "firstName": " Bailey",
+  "lastName": "Troughton",
+  "address": {
+    "Street": "1060 West Addison Street",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60613",
+    "country": "USA"
+  },
+  "email": [
+    "btroug@cse.unl.edu",
+    "btrou32@unl.edu"
+  ]
+}
+{
+  "personCode": "321na",
+  "firstName": " Goody",
+  "lastName": "Stratler",
+  "address": {
+    "Street": "301 Front St W",
+    "city": " Toronto",
+    "state": " ON",
+    "zip": " M5V 2T6",
+    "country": " Canada"
+  },
+  "email": [
+    "gstrat@whofan.com"
+  ]
+}
+{
+  "personCode": "231",
+  "firstName": " Holley",
+  "lastName": "Earl",
+  "address": {
+    "Street": "1 Blue Jays Way",
+    "city": " Toronto",
+    "state": " ON",
+    "zip": " M5V 1J1",
+    "country": " Canada"
+  },
+  "email": [
+    "famousholl@who.com",
+    "hearl@cse.unl.edu",
+    "holleyearl@whovian.com",
+    "earl12@bbc.com"
+  ]
+}
+{
+  "personCode": "6doc",
+  "firstName": " Richard",
+  "lastName": "Hurndall",
+  "address": {
+    "Street": "Campos El290",
+    "city": "Mexico City",
+    "state": " FD",
+    "zip": "",
+    "country": " Mexico"
+  },
+  "email": [
+    "rhurndall@cse.unl.edu",
+    "richard@unl.edu"
+  ]
+}
+{
+  "personCode": "321dr",
+  "firstName": " Samantha ",
+  "lastName": "Baker",
+  "address": {
+    "Street": "Avery Hall",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68503",
+    "country": "USA"
+  },
+  "email": [
+    "sb@baker.com"
+  ]
+}
+{
+  "personCode": "1svndr",
+  "firstName": " Starlin",
+  "lastName": "O\u0027Brien",
+  "address": {
+    "Street": "126-01 Roosevelt Ave",
+    "city": " Flushing",
+    "state": " NY",
+    "zip": "11368",
+    "country": "USA"
+  },
+  "email": [
+    "slyguy@hotmail.com",
+    "obrein@whofan.com"
+  ]
+}
+{
+  "personCode": "123lst",
+  "firstName": " Paul",
+  "lastName": "McGann",
+  "address": {
+    "Street": "1 MetLife Stadium Dr",
+    "city": " East Rutherford",
+    "state": " NJ",
+    "zip": "07073",
+    "country": "USA"
+  },
+  "email": [
+    "pmcgann@mlb.com",
+    "pfoo@bar.com",
+    "pmc@unl.edu"
+  ]
+}
+{
+  "personCode": "nwdoc1",
+  "firstName": " Chris",
+  "lastName": "Eccleston",
+  "address": {
+    "Street": "1 E 161st St",
+    "city": " Bronx",
+    "state": " NY",
+    "zip": "10451",
+    "country": "USA"
+  },
+  "email": []
+}
+{
+  "personCode": "2ndbestd",
+  "firstName": " David",
+  "lastName": "Castro",
+  "address": {
+    "Street": "700 E Grand Ave",
+    "city": " Chicago",
+    "state": " IL",
+    "zip": " 60611",
+    "country": "USA"
+  },
+  "email": [
+    "david@shakespeare.com",
+    "dcastro@unl.edu"
+  ]
+}
+{
+  "personCode": "wrddoc",
+  "firstName": " Matt",
+  "lastName": "Smith",
+  "address": {
+    "Street": "333 W 35th St",
+    "city": " Chicago",
+    "state": " IL",
+    "zip": "60616",
+    "country": "USA"
+  },
+  "email": [
+    "msmith@who.com",
+    "smatt@cse.unl.edu"
+  ]
+}
+{
+  "personCode": "bbchar",
+  "firstName": " Kaylee",
+  "lastName": "Tennant",
+  "address": {
+    "Street": "800 West 7th Street",
+    "city": " Albuquerque",
+    "state": " NM",
+    "zip": " 87105",
+    "country": "USA"
+  },
+  "email": []
+}
+{
+  "personCode": "doc05",
+  "firstName": " Peter",
+  "lastName": "Ehrmantraut",
+  "address": {
+    "Street": "123 Cabo San Lucas",
+    "city": " Los Cabos",
+    "state": " BCS",
+    "zip": " 11211",
+    "country": " Mexico"
+  },
+  "email": [
+    "pete@gmail.com"
+  ]
+}

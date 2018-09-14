@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Products>
+  <Equipment>
+    <productCode>b29e</productCode>
+    <productName>Satellite Reciever</productName>
+    <price>2500.0</price>
+    <units>0</units>
+  </Equipment>
+</Products><Products>
+  <Equipment>
+    <productCode>ff23</productCode>
+    <productName>Wireless5G Router</productName>
+    <price>124.99</price>
+    <units>0</units>
+  </Equipment>
+</Products><Products>
+  <Equipment>
+    <productCode>fp12</productCode>
+    <productName>Netgear DSL Modem</productName>
+    <price>63.99</price>
+    <units>0</units>
+  </Equipment>
+</Products><Products>
+  <Equipment>
+    <productCode>1239</productCode>
+    <productName>Digital Setup Box</productName>
+    <price>200.00</price>
+    <units>0</units>
+  </Equipment>
+</Products><Products>
+  <Service>
+    <code>90fa</code>
+    <name>Long Distance Service</name>
+    <activationFee>2000.00</activationFee>
+    <annualFee>12000.00</annualFee>
+    <startDate>2016-24-31</startDate>
+    <endDate>2016-24-31</endDate>
+  </Service>
+</Products><Products>
+  <Consultation>
+    <productCode>3289</productCode>
+    <productName>Turbo Upgrade-Internet</productName>
+    <hourlyFee>25.00</hourlyFee>
+    <consultant>
+      <personCode>aef1</personCode>
+      <firstName> Gordon</firstName>
+      <lastName>Gekko</lastName>
+      <address>
+        <Street>1 Wall Street</Street>
+        <city>New York</city>
+        <state>NY</state>
+        <zip>10005-0012</zip>
+        <country>USA</country>
+      </address>
+      <email>
+        <string>gekko@crazy.net</string>
+      </email>
+    </consultant>
+  </Consultation>
+</Products><Products>
+  <Consultation>
+    <productCode>782g</productCode>
+    <productName>Home Wifi Setup</productName>
+    <hourlyFee>150.00</hourlyFee>
+    <consultant>
+      <personCode>321nd</personCode>
+      <firstName> William</firstName>
+      <lastName>Thotroy</lastName>
+      <address>
+        <Street>1060 West Addison Street</Street>
+        <city>Chicago</city>
+        <state>IL</state>
+        <zip>60613</zip>
+        <country>USA</country>
+      </address>
+      <email>
+        <string>willth@doctors.com</string>
+        <string>wth@who.com</string>
+      </email>
+    </consultant>
+  </Consultation>
+</Products><Products>
+  <Service>
+    <code>3294</code>
+    <name>L2 Home Security</name>
+    <activationFee>0.00</activationFee>
+    <annualFee>35000.00</annualFee>
+    <startDate>2016-24-31</startDate>
+    <endDate>2016-24-31</endDate>
+  </Service>
+</Products><Products>
+  <Service>
+    <code>3295</code>
+    <name>Domain registration</name>
+    <activationFee>350.00</activationFee>
+    <annualFee>1200.00</annualFee>
+    <startDate>2016-24-31</startDate>
+    <endDate>2016-24-31</endDate>
+  </Service>
+</Products>
